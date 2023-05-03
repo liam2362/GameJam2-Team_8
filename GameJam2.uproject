@@ -1,8 +1,18 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.0",
+	"EngineAssociation": "{8703CBD2-4FBB-1280-634F-24BD11AE771F}",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "GameJam2",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
