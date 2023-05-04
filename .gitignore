@@ -12,3 +12,17 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+/Content/LevelAssets/BluePrints/BP_Cactus_1.uasset
+/Content/LevelAssets/BluePrints/BP_Cactus_2.uasset
+/Content/LevelAssets/BluePrints/BP_Cactus_3.uasset
+/Content/LevelAssets/BluePrints/BP_Rock_3.uasset
+/Content/LevelAssets/BluePrints/BP_Tunnel.uasset
+/Content/LevelAssets/BluePrints/BP_Rock_1.uasset
+/Content/LevelAssets/Mesh/Tunnel.uasset
+/Content/LevelAssets/Mesh/Rock_3.uasset
+/Content/LevelAssets/Mesh/Rock_2.uasset
+/Content/LevelAssets/Mesh/Rock_1.uasset
+/Content/LevelAssets/Mesh/ooze.uasset
+/Content/LevelAssets/Mesh/Cactus_3.uasset
+/Content/LevelAssets/Mesh/Cactus_2.uasset
+/Content/LevelAssets/Mesh/Cactus_1.uasset
